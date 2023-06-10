@@ -41,6 +41,7 @@ print("no of words in a file",count)
 ### OUTPUT:
 ![pythonexp 5b](https://github.com/hashish9275/command-line-arguments-to-count-word/assets/118707521/2a791126-421e-4d9e-bb92-c1b7e91f6d43)
 
+![pr exp 5b txt](https://github.com/hashish9275/command-line-arguments-to-count-word/assets/118707521/4eee915b-4deb-4b5e-92bf-748a24d7525e)
 
 
 ## RESULT:
